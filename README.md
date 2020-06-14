@@ -1,2 +1,3 @@
 # hello-world
 Intro to GitHub by this repository
+Trying to understand the basics...
